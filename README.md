@@ -4,5 +4,5 @@
 ### 1.2 Architecture Details
 <img src="assets\Structure.png"> 
 
-### 1.3 QuantitativeResults
+### 1.3 Quantitative Results
 <img src="assets\QuantitativeResults.png"> 
